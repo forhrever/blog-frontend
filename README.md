@@ -11,5 +11,8 @@ src/index.js  | App.js | lib/styles/palette.js | components/common/Button.js | p
 02월 23일 - 스타일 지정 , 리덕스 적용
 index.css | src/modules/auth.js | src/module/index.js | src/index.js 
 
-02월 27일 - 회원가입과 로그인 구현 
+02월 27일 - 로그인 구현 준비하기
 components/auth/AuthForm.js | components/auth/AuthTemplete.js | pages/LoginPage.js
+
+02월 28일 - AuthTemplete 완성하기 , AuthForm 완성하기 , 로그인과 회원가입 페이지 완성하기
+pages/RegisterPage.js | pages/LoginPage.js | components/auth/AuthTemplete.js | components/auth/AuthForm.js | components/common/Button.js
